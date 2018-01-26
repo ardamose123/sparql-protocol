@@ -2,7 +2,7 @@ name:                sparql-protocol
 version:             1.1.0.0
 synopsis:            An SPARQL 1.1 Protocol client library.
 homepage:            https://github.com/ardamose123/sparql-protocol
-license:             GPLv3
+license:             GPL-3
 license-file:        LICENSE
 author:              Ariel David Moya Sequeira
 maintainer:          ardamose123@gmail.com
